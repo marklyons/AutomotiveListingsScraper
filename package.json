@@ -1,0 +1,22 @@
+{
+  "name": "automotivelistingsscraper",
+  "version": "1.0.0",
+  "description": "A few web-scraper scripts to pull some data from car listing websites. Written in Node.js and intended to be used in a little API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marklyons/AutomotiveListingsScraper.git"
+  },
+  "keywords": [
+    "scraper"
+  ],
+  "author": "Mmkarklyons",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marklyons/AutomotiveListingsScraper/issues"
+  },
+  "homepage": "https://github.com/marklyons/AutomotiveListingsScraper#readme"
+}
